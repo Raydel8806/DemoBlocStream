@@ -1,6 +1,6 @@
 # demoblocstream
 
-A new Flutter project.
+Simple example to show the use Bloc Stream.
 
 ## Getting Started
 
